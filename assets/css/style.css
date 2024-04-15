@@ -1,0 +1,70 @@
+
+a{
+    text-decoration: none;
+}
+img{
+    border:1px solid #ffde59;
+}
+.ep{
+    align:center;
+}
+.headphones{
+    color:greenyellow;
+    width: 40px;
+    font-size: 30px;
+}
+.cart{
+    color:gray;
+    font-size: 40px;
+}
+.contact{
+    margin-right: 15px;
+}
+.cart{
+    margin-left: 20px
+}
+ul{
+list-style-type: none;
+}
+
+.card img{
+    height: 200px;
+}
+.products {
+    background: radial-gradient(#6782B4, #B1BFD8);
+}
+.card img{
+    height: 200px;
+}
+probody{
+    background: radial-gradient(#6782B4, #B1BFD8);
+}
+
+.context{
+    width: 470px;
+    height: 85px;
+}
+.profilelleft{
+    height: 800px;
+}
+.proleft{
+    font-size: 27px;
+}
+
+.reg {
+    margin-top: 40px;
+}
+.form-control {
+    height: 67px;
+    margin-top: 23px;
+}
+.indexsign {
+    height: 76px;
+    margin-top: 20px;
+}
+.indexbody {
+    background-image: linear-gradient(#FCE043, #FB7BA2, #FCE043);
+}
+.rounded-circle{
+    font-size: 13px;
+}  

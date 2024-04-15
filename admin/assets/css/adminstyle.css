@@ -1,0 +1,30 @@
+a{
+    text-decoration: none;
+}
+img{
+    border:1px solid #ffde59;
+}
+.ep{
+    align:center;
+}
+.headphones{
+    color:greenyellow;
+    width: 40px;
+    font-size: 30px;
+}
+.cart{
+    color:gray;
+    font-size: 40px;
+}
+.contact{
+    margin-right: 15px;
+}
+.cart{
+    margin-left: 20px
+}
+
+.dashbody{
+    background: radial-gradient(#6782B4, #B1BFD8);
+}
+
+
